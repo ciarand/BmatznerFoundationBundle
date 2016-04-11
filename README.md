@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # ZURB Foundation Bundle for Symfony2
 
 ## Current Version
